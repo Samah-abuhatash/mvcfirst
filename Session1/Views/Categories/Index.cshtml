@@ -1,0 +1,17 @@
+﻿
+<!Doctype html>
+<html>
+<head>
+
+</head>
+<body>
+	<h1>AllUsers DataBase</h1>
+	@foreach (var item in @Model)
+	{
+		<li>  @item.Name <a href="/Categories/Details/@item.Id"> Deatils
+			</a></li>
+
+	}
+
+</body>
+</html>

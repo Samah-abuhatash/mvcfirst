@@ -1,0 +1,44 @@
+﻿<!Doctype html>
+<html>
+	<head>
+
+	</head>
+	<body>
+		<h1>AllUsers</h1>
+		
+	
+	@foreach (var user in @Model)
+	{
+		<h2>@user</h2>
+		
+	}
+	@foreach (var item in @Model)
+	{
+		<li >  @item</li>
+
+	}
+	<table>
+		<thead>
+			<tr>
+				<th>Name</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in Model)
+			{
+				<tr>
+					<td>@item</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+	<select>
+		@foreach (var user in Model)
+		{
+			<option value="@user">@user</option>
+		}
+	</select>
+
+
+</body>
+</html>
