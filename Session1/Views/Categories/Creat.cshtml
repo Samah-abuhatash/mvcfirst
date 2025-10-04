@@ -1,0 +1,14 @@
+﻿@model Category
+<form method="post" action="/Categories/store">
+	<div class="mb-3">
+		<label for="C-Name" class="form-label">Category Name:</label>
+		<input type="text" name="Name" class="form-control" id="C-Name" placeholder="Enter the name of category">
+	</div>
+
+	<div class="mb-3">
+		<label for="C-Desc" class="form-label">Description:</label>
+		<input type="text" name="Description" class="form-control" id="C-Desc" placeholder="Enter the category description">
+	</div>
+
+	<button type="submit" class="btn btn-outline-primary">Create</button>
+</form>

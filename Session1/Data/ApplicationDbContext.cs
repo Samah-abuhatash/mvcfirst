@@ -17,10 +17,11 @@
             base.OnModelCreating(modelBuilder);
 
             modelBuilder.Entity<Category>().HasData(
-                new Category { Id = 1, Name = "Tariq 1" },
-                new Category { Id = 2, Name = "Tariq 2" },
-                new Category { Id = 3, Name = "Tariq 3" }
-                );
+                new Category { Id = 1, Name = "Tariq 1", description = "First test category" },
+                new Category { Id = 2, Name = "Tariq 2", description = "Second test category" },
+                new Category { Id = 3, Name = "Tariq 3", description = "Third test category" }
+            );
         }
+
     }
 }

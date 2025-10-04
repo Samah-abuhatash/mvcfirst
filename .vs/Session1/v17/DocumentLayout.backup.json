@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\EF\\mvc\\Session1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B74AC-EFA9-4E10-805D-965257B0B143}|Session1\\Session1.csproj|c:\\users\\omen\\onedrive\\documents\\asp12\\ef\\mvc\\session1\\session1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B74AC-EFA9-4E10-805D-965257B0B143}|Session1\\Session1.csproj|solutionrelative:session1\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B74AC-EFA9-4E10-805D-965257B0B143}|Session1\\Session1.csproj|c:\\users\\omen\\onedrive\\documents\\asp12\\ef\\mvc\\session1\\session1\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC8B74AC-EFA9-4E10-805D-965257B0B143}|Session1\\Session1.csproj|solutionrelative:session1\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B74AC-EFA9-4E10-805D-965257B0B143}|Session1\\Session1.csproj|c:\\users\\omen\\onedrive\\documents\\asp12\\ef\\mvc\\session1\\session1\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC8B74AC-EFA9-4E10-805D-965257B0B143}|Session1\\Session1.csproj|solutionrelative:session1\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B74AC-EFA9-4E10-805D-965257B0B143}|Session1\\Session1.csproj|c:\\users\\omen\\onedrive\\documents\\asp12\\ef\\mvc\\session1\\session1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B74AC-EFA9-4E10-805D-965257B0B143}|Session1\\Session1.csproj|solutionrelative:session1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B74AC-EFA9-4E10-805D-965257B0B143}|Session1\\Session1.csproj|c:\\users\\omen\\onedrive\\documents\\asp12\\ef\\mvc\\session1\\session1\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC8B74AC-EFA9-4E10-805D-965257B0B143}|Session1\\Session1.csproj|solutionrelative:session1\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\EF\\mvc\\Session1\\Session1\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Session1\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\EF\\mvc\\Session1\\Session1\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "Session1\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T09:59:55.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\EF\\mvc\\Session1\\Session1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Session1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\EF\\mvc\\Session1\\Session1\\Models\\Category.cs",
+              "RelativeToolTip": "Session1\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T09:44:32.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\EF\\mvc\\Session1\\Session1\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Session1\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\EF\\mvc\\Session1\\Session1\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Session1\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T09:44:17.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\EF\\mvc\\Session1\\Session1\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Session1\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\EF\\mvc\\Session1\\Session1\\Controllers\\CategoriesController.cs*",
+              "RelativeToolTip": "Session1\\Controllers\\CategoriesController.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T09:43:10.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\EF\\mvc\\Session1\\Session1\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Session1\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\OMEN\\OneDrive\\Documents\\asp12\\EF\\mvc\\Session1\\Session1\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Session1\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-04T09:33:19.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

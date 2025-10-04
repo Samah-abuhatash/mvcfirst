@@ -1,17 +1,42 @@
-﻿
-<!Doctype html>
+﻿<!DOCTYPE html>
 <html>
 <head>
+    <meta charset="utf-8">
+    <title>All Users Categories</title>
 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
 </head>
-<body>
-	<h1>AllUsers DataBase</h1>
-	@foreach (var item in @Model)
-	{
-		<li>  @item.Name <a href="/Categories/Details/@item.Id"> Deatils
-			</a></li>
+<body class="p-4 bg-light">
+    <div class="container">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h1 class="text-primary"><i class="fa-solid fa-users"></i> All Users Database</h1>
+            <a href="/Categories/Creat" class="btn btn-success">
+                <i class="fa-solid fa-plus"></i> Create
+            </a>
+        </div>
 
-	}
+        <ul class="list-group shadow">
+            @foreach (var item in Model)
+            {
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                    <span class="fw-bold text-secondary">@item.Name</span>
+                    <div>
+                        <a href="/Categories/Details/@item.Id" class="btn btn-outline-primary btn-sm me-2">
+                            <i class="fa-solid fa-circle-info"></i> Details
+                        </a>
+                        <a href="/Categories/Edit/@item.Id" class="btn btn-outline-warning btn-sm me-2">
+                            <i class="fa-solid fa-pen-to-square"></i> Edit
+                        </a>
+                        <a href="/Categories/Delete/@item.Id" class="btn btn-outline-danger btn-sm">
+                            <i class="fa-solid fa-trash"></i> Delete
+                        </a>
+                    </div>
+                </li>
+            }
+        </ul>
+    </div>
 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
